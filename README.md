@@ -1,2 +1,2 @@
 # C++
-This is a repository for learning!
+This is a repository for Ｃ＋＋
