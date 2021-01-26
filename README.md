@@ -1,2 +1,2 @@
-# C Language
-This is a repository for C Language
+# C Programing Language
+This is a repository for C Programing Language
