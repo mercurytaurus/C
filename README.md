@@ -1,2 +1,2 @@
 # C++
-This is a repository for Ｃ＋＋
+This is a repository for C Language
